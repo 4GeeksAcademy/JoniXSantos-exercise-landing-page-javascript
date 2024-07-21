@@ -1,0 +1,29 @@
+#masthead {
+    background-image: url("./img/bg-masthead.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 450px;
+}
+
+#mastfoot {
+    background-image: url("./img/bg-masthead.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 280px;
+}
+
+.middle {
+    margin-top: 110px;
+}
+
+.middle2 {
+    margin-top: 70px;
+}
+
+.centralization {
+    margin: auto;
+}
+
+#social-media {
+    margin-top: -70px !important;
+}
